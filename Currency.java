@@ -2,6 +2,7 @@
 //hello jermu(abhishek)
 //Do you Bleed  ?...(austin)
 // Men are brave   (amal)
+// who wants to be king ? (jermish)
 import java.util.*;
 public class Currency{
   public static void main(String args[]){

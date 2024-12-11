@@ -1,5 +1,6 @@
 //i'm Batman (aswin das)
 
+// Men are brave   (amal)
 import java.util.*;
 public class Currency{
   public static void main(String args[]){
